@@ -84,6 +84,7 @@ print(dic1.setdefault(6, "Value not present"))
 
 '''
 performing loop on the dictionary
+an example of a vending machine which implements a dictionary
 '''
 
 
